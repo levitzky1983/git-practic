@@ -1,4 +1,5 @@
 {
+ "result" : 1,
  "products":[
               {"productId" : 1, "price" : 100},
               {"productId" : 2, "price" : 200},
