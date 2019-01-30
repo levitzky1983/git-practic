@@ -1,7 +1,7 @@
 {
   "result": 1,
   "basket": [
-     {"productId": 1, "amount": 2},
-     {"productId": 3, "amount": 1}
+     {"productId":1, "name":"товар 1", "price":100, "amount":2},
+     {"productId":3, "name":"товар 3", "price":300, "amount":1}
    ]
 }
