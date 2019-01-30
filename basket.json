@@ -3,5 +3,5 @@
   "basket": [
      {"productId": 1, "amount": 2},
      {"productId": 2, "amount": 1},
-   
+   ]
 }
