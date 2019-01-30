@@ -1,9 +1,9 @@
 {
  "products":[
-              {"productId" : 1, "name":"товар 1", "price" : 100},
-              {"productId" : 2, "name":"товар 2", "price" : 200},
-              {"productId" : 3, "name":"товар 3", "price" : 300},
-              {"productId" : 4, "name":"товар 4", "price" : 400},
-              {"productId" : 5, "name":"товар 5", "price" : 500}          
+              {"productId" : 1, "name":"Молоко", "price" : 100},
+              {"productId" : 2, "name":"Сахар", "price" : 200},
+              {"productId" : 3, "name":"Колбаса", "price" : 300},
+              {"productId" : 4, "name":"Сыр", "price" : 400},
+              {"productId" : 5, "name":"Мясо", "price" : 500}          
             ]
 }
